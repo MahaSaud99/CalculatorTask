@@ -1,0 +1,8 @@
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe.config
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.pdb
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.AssemblyReference.cache
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.exe
+C:\Users\mahas\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.pdb
